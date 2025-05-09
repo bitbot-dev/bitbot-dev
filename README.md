@@ -1,3 +1,3 @@
-**Official** BitBot github account, please visit:
+This is official **bitbot** github account
 
-https://bitbot.solutions
+More information please visit https://bitbot.solutions
